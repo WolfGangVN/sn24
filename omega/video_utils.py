@@ -28,7 +28,6 @@ def clip_video(video_path: str, start: int, end: int) -> Optional[BinaryIO]:
     )
     return temp_fileobj
 
-
 def skip_live(info_dict):
     """
     function to skip downloading if it's a live video (yt_dlp doesn't respect the 20 minute 

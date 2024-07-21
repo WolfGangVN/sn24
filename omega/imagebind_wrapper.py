@@ -58,6 +58,8 @@ class ImageBind:
                 ModalityType.AUDIO: audio_data,
             }
             return inputs
+        except Exception as e:
+            print(f"Error loading and transforming data: {e}")
         finally:
             for audio_file in audio_files:
                 audio_file.close()

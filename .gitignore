@@ -165,3 +165,5 @@ cache/
 
 *.env
 wandb
+*.mp4
+latest-ids.txt

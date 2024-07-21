@@ -1,0 +1,167 @@
+[
+    {
+        "topic": "\"A deep dive into the lore of \"\"Star Wars\"\" expanded universe comics\"",
+        "queries": [
+            "\"Exploring Thrawn's strategy in 'Star Wars: Heir to the Empire' comics\"",
+            "\"Boba Fett's adventures in 'Star Wars' expanded universe graphic novels\"",
+            "\"Mara Jade's journey in 'Star Wars' expanded universe comic book series\"",
+            "\"Darth Revan's story arc in 'Star Wars: Knights of the Old Republic'\"",
+            "\"Dark Empire's portrayal of Emperor Palpatine's resurrection in 'Star Wars' comics\"",
+            "\"Legacy era conflicts in 'Star Wars: Legacy' comic series analysis\"",
+            "\"Han Solo's escapades in 'Star Wars: Shadows of the Empire' comics\"",
+            "\"Jedi Order's trials in 'Star Wars: Tales of the Jedi' comics\"",
+            "\"Yuuzhan Vong invasion in 'Star Wars: New Jedi Order' comics\"",
+            "\"Rogue Squadron's missions in 'Star Wars: X-Wing Rogue Squadron' comics"
+        ]
+    },
+    {
+        "topic": "Adaptations of comic books into TV series",
+        "queries": [
+            "Marvel comic books adapted into live-action TV series",
+            "DC Comics adaptations into animated TV series",
+            "Netflix adaptations of graphic novels into TV series",
+            "Classic superhero comics turned into TV series",
+            "Dark Horse Comics transformed into TV series",
+            "Indie comic books adapted into popular TV series",
+            "Image Comics graphic novels as TV series adaptations",
+            "Superhero team comic books adapted into TV series",
+            "Horror comic books turned into TV series adaptations",
+            "Manga adaptations into Japanese TV series"
+        ]
+    },
+    {
+        "topic": "Adaptations of video games into animated series",
+        "queries": [
+            "\"Adaptations of video games like The Witcher into animated series\"",
+            "\"Animated series adaptations of classic video games like Castlevania\"",
+            "\"Popular video game adaptations into animated series like Arcane\"",
+            "\"The transformation of video games like Cyberpunk into animated series\"",
+            "\"Video game to animated series adaptations, including Resident Evil\"",
+            "\"Animated series based on video games like World of Warcraft\"",
+            "\"Epic video game stories adapted into animated series like Dragon Quest\"",
+            "\"Adaptations of horror video games like Silent Hill into animated series\"",
+            "\"Animated series adaptations of RPG video games like Final Fantasy\"",
+            "\"Fantasy video games like Dota adapted into animated series"
+        ]
+    },
+    {
+        "topic": "Adjusting Power Settings for Better Performance",
+        "queries": [
+            "Configuring Windows 11 Power Settings for High-Performance Gaming",
+            "Optimizing MacBook Pro Power Settings for Graphic Design",
+            "Tweaking Lenovo ThinkPad Power Plans for Enhanced Productivity",
+            "Customizing Dell XPS 13 Energy Settings for Intensive Tasks",
+            "Fine-Tuning iMac Power Preferences for Creative Workflows",
+            "Setting HP Envy Power Modes for Maximum Efficiency",
+            "Managing ASUS ROG Power Profiles for Superior Game Performance",
+            "Adjusting Surface Pro 7 Power Settings for Professional Use",
+            "Configuring Alienware Power Options for Ultimate Gaming Power",
+            "Tailoring Acer Predator Settings for Performance Boost"
+        ]
+    },
+    {
+        "topic": "Advanced Features of the Vim Text Editor",
+        "queries": [
+            "Advanced Vim Text Editor Plugins and Customization Techniques  ",
+            "In-depth Vim Text Editor Scripting and Usability Enhancements  ",
+            "Pro-level Vim Editor Keybindings and Workflow Optimizations  ",
+            "Advanced Vim Text Editor Macros and Efficiency Tools  ",
+            "Vim Editor Advanced Syntax Highlighting and Code Navigation  ",
+            "Vim Text Editor Advanced Buffer Management and Multitasking Tools  ",
+            "Expert Tips for Advanced Vim Editor Configuration and Setup  ",
+            "Deep Dive into Vim Text Editor Automation and Plugins  ",
+            "Advanced Vim Editor Search and Replace Techniques  ",
+            "Vim Editor Advanced Command-Line Integrations and Shortcuts"
+        ]
+    },
+    {
+        "topic": "Advancements in electric guitar design",
+        "queries": [
+            "Advancements in electric guitar design by Fender and Gibson.",
+            "Modern ergonomic electric guitar designs with multi-scale necks.",
+            "New electric guitar designs featuring active pickup technology.",
+            "Lightweight electric guitar design innovations in 2023.",
+            "Advances in electric guitar design using exotic wood types.",
+            "High-performance electric guitars with augmented reality setups.",
+            "Eco-friendly materials in electric guitar design innovation.",
+            "Custom electric guitar designs with 3D-printed components.",
+            "Latest electric guitar advancements with integrated MIDI technology.",
+            "High-gain electric guitar designs for metal and rock genres."
+        ]
+    },
+    {
+        "topic": "Advances in genetic engineering",
+        "queries": [
+            "Breakthroughs in CRISPR gene editing for human disease treatment",
+            "Advances in synthetic biology and genetic engineering innovations",
+            "Recent developments in TALENs and CRISPR-Cas9 genetic tools",
+            "Novel gene therapy techniques in modern genetic engineering",
+            "Genetic engineering progress in designer babies and ethical dilemmas",
+            "Innovations in agricultural biotech: GMO crops and pest resistance",
+            "Cutting-edge genetic engineering for personalized cancer treatments",
+            "Advances in gene editing for inherited genetic disorders",
+            "New frontiers in gene drives and population control technologies",
+            "Recent breakthroughs in epigenetic modifications and gene expression control"
+        ]
+    },
+    {
+        "topic": "Advances in medical imaging technology",
+        "queries": [
+            "Advances in MRI and CT scan medical imaging technology",
+            "Breakthroughs in 3D ultrasound and X-ray medical imaging technology",
+            "Innovations in AI-driven MRI and PET scan imaging technology",
+            "Developments in high-resolution digital mammography imaging technology",
+            "Progress in fMRI and SPECT medical imaging advancements",
+            "Cutting-edge techniques in portable ultrasound imaging technology",
+            "Advances in dynamic contrast-enhanced MRI technology",
+            "Innovations in hybrid PET/MRI medical imaging systems",
+            "Progress in nanotechnology-enhanced imaging for cancer detection",
+            "Breakthroughs in real-time 4D cardiac imaging technology"
+        ]
+    },
+    {
+        "topic": "Advances in nanotechnology",
+        "queries": [
+            "Advances in carbon nanotube nanotechnology applications",
+            "Advances in semiconductor nanotechnology for quantum computing",
+            "Progress in nanotechnology for drug delivery systems",
+            "Recent breakthroughs in graphene-based nanotechnology",
+            "Nanotechnology advances in cancer treatment techniques",
+            "Innovations in nanotechnology for clean energy",
+            "Advances in nanotechnology for water purification",
+            "Nanotechnology developments in wearable electronics",
+            "Latest nanotechnology in renewable energy solutions",
+            "Advances in nanotechnology for advanced materials engineering"
+        ]
+    },
+    {
+        "topic": "Agile Methodologies in Project Management",
+        "queries": [
+            "Agile Methodologies: Scrum and Kanban in Software Project Management",
+            "Utilizing Scrum and XP in Agile Project Management",
+            "Agile Methodologies: Lean and Kanban for Effective Project Management",
+            "Agile Project Management with Scrum and Lean Techniques",
+            "Advanced Agile Methodologies: Kanban and Extreme Programming in Projects",
+            "Applying Agile: Scrum, Kanban in Project Management Strategies",
+            "Agile Project Management: Scrum, Lean, and Kanban Practices",
+            "Scrum and Extreme Programming in Agile Project Management",
+            "Lean and Kanban Techniques for Agile Project Management",
+            "Comprehensive Agile Methodologies: Scrum, Kanban in Project Management"
+        ]
+    },
+    {
+        "topic": "Agile Software Development",
+        "queries": [
+            "Agile Software Development with Scrum and Kanban methodologies",
+            "Agile Software Development using Extreme Programming (XP) practices",
+            "Agile Software Development for large-scale enterprise projects",
+            "Agile Software Development integrating Continuous Integration (CI) workflows",
+            "Agile Software Development with user stories and sprints",
+            "Agile Software Development in remote teams",
+            "Agile Software Development using Atlassian tools like Jira",
+            "Agile Software Development with Test-Driven Development (TDD)",
+            "Agile Software Development emphasizing cross-functional team collaboration",
+            "Agile Software Development incorporating DevOps practices"
+        ]
+    }
+]
